@@ -2,8 +2,11 @@
 <br /><br />
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=nocerainfosec&show_icons=true&theme=dark" width="380">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nocerainfosec&layout=compact&theme=dark" width="380">
+![nocerainfosec's Stats](https://github-readme-stats.vercel.app/api?username=nocerainfosec&theme=radical&show_icons=true&hide_border=true&count_private=false)
+
+![nocerainfosec's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nocerainfosec&theme=radical&hide_border=true)
+
+
     
 ## ❤️ Sponsoring
 
