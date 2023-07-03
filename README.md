@@ -2,6 +2,8 @@
 
 ![nocerainfosec's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nocerainfosec&theme=radical&hide_border=true)
  
+<!--
 ## ❤️ Sponsoring
 
 If you like or rely on the work I do, please consider [sponsoring me](https://github.com/sponsors/nocerainfosec). I do open source all my projects, it would be really great if I could do more of it.
+-->
